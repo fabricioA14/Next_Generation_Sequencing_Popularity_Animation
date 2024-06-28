@@ -25,6 +25,6 @@ The project is organized as follows:
 
 # Animation
 
-After running `sequencing_platforms_animation.R`, the animation result is saved as a GIF file. Below is the animation:
+After running `sequencing_platforms_animation.R`, the animation result is saved as a GIF file.
 
 ![combined_gif](https://github.com/fabricioA14/Next_Generation_Sequencing_Popularity_Animation/assets/73892283/a17fb321-1978-4df7-8a91-b3fc57595410)
