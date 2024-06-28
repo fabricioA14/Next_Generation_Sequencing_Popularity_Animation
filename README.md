@@ -19,7 +19,7 @@ Merge animations: Combine the trend and stock price plots into a single animated
 
 The project is organized as follows:
 
-- **/src**: Directory containing scripts and dependencies.  
+- **/src**: Directory containing dependencies.  
   - `dependencies.R`: Contains the script for installing and loading the necessary R packages and custom function.
 - `sequencing_platforms_animation.R`: Main script that calls the functions and executes the project workflow.
 
